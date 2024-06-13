@@ -1,7 +1,6 @@
 x=1
 
 n = int(input("enter sum:"))
-y = n
-add =x +y
+add =x + n
 
 print("sum",add)
